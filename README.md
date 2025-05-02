@@ -7,4 +7,4 @@ This is a demo showcase for an e-shop platform.
 - IOS/Android: Flutter
 
 ### Backend
-SprringBoot
+SpringBoot
