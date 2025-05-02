@@ -1,3 +1,10 @@
-# backoffice
-一个企业管理后台,前端使用Thymeleaf,后端使用java
-这个项目主要是对自己过去一年多接触到的技术进行总结，适合新手。虽然现时已经有很多现成的框架，但一些基本的使用方式还是要了解的。
+# Introduction
+This is a demo showcase for an e-shop platform.
+
+## Tech Stack
+### Frontend
+PC: React js
+IOS/Android: Flutter
+
+### Backend
+SprringBoot
